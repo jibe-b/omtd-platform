@@ -1,7 +1,7 @@
 # omtd-platform
 
 ## First time
-`npm intall` for all the dependencies.
+`npm intall` for all the dependencies. (tested with nodejs 7)
 
 ## Build
 For development `npm run build` and it can be deployed with `npm run start` using lite-server and browsersync.
